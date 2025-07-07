@@ -1,0 +1,33 @@
+/* Footer.css */
+
+.footer {
+    background-color: #111;
+    color: #eee;
+    padding: 50px 20px;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+  }
+  
+  .footer p {
+    margin-bottom: 15px;
+    font-size: 1rem;
+  }
+  
+  .social-icons {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .social-icons a {
+    color: #eee;
+    font-size: 1.4rem;
+    transition: color 0.3s ease;
+    text-decoration: none;
+  }
+  
+  .social-icons a:hover {
+    color: #ff4d4f;
+  }
+  
