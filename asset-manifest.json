@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/coorgshoecorner/static/css/main.67acdb98.css",
+    "main.js": "/coorgshoecorner/static/js/main.d73cdd47.js",
+    "static/js/453.8145ecbf.chunk.js": "/coorgshoecorner/static/js/453.8145ecbf.chunk.js",
+    "static/media/hero.png": "/coorgshoecorner/static/media/hero.64ec4c82f79979b66fc8.png",
+    "static/media/shoe1.jpg": "/coorgshoecorner/static/media/shoe1.9159e8cb5da1b333db83.jpg",
+    "index.html": "/coorgshoecorner/index.html",
+    "main.67acdb98.css.map": "/coorgshoecorner/static/css/main.67acdb98.css.map",
+    "main.d73cdd47.js.map": "/coorgshoecorner/static/js/main.d73cdd47.js.map",
+    "453.8145ecbf.chunk.js.map": "/coorgshoecorner/static/js/453.8145ecbf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67acdb98.css",
+    "static/js/main.d73cdd47.js"
+  ]
+}
